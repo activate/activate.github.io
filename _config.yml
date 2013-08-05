@@ -4,6 +4,10 @@ signature: "Yours truly, Grizzly Bear"
 pygments: true
 permalink: pretty
 markdown: redcarpet
+github:
+  # enables "edit" link
+  repo: 'edrex/edrex.github.io'
+  branch: master
 prose:
   siteurl: 'http://edrex.github.io'
   relativeLinks: 'http://edrex.github.io/links.json'
